@@ -1,0 +1,128 @@
+[
+    {
+        "id" : 1,
+        "albumName" : "The way of all flesh",
+        "artist" : "Gojira",
+        "releaseYear" : 2008,
+        "songs" : ["Oroborus", "A sight to behold", "The art of dying", "Esoteric surgery", "Vacuity", "Wolf down the earth"],
+        "url" : "https://m.media-amazon.com/images/I/516AUSQ0JQL._UF1000,1000_QL80_.jpg",
+        "stock" : 15
+    },
+    {
+        "id" : 2,
+        "albumName" : "Wolfheart",
+        "artist" : "Moonspell",
+        "releaseYear" : 1995,
+        "songs" : ["Love Crimes", "Vampiria", "Of dream and drama", "An Erotic Alchemy" , "Alma Mater"],
+        "url" : "https://scontent.fmex36-1.fna.fbcdn.net/v/t1.18169-9/12651287_1018327381573749_6111970022064316101_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cdbe9c&_nc_eui2=AeEUFyOTR_nC8lZolRKeJiDKkPoi9lrLQJmQ-iL2WstAmUauOigjDBuje2I5SX8EmNnRm84yp-TF60csjCDWQ8cN&_nc_ohc=eH4T13W_1dYAX8q0_3I&_nc_ht=scontent.fmex36-1.fna&oh=00_AfCZpw0jCBLkB6Y-_5YOzzbWa0KwvgrmFQzVdmZmWs0-vw&oe=647D0BDA",
+        "stock" : 5
+    },
+    {
+        "id" : 3,
+        "albumName" : "Yang",
+        "artist" : "Sabino",
+        "releaseYear" : 2021,
+        "songs" : ["Diamante", "Masoquista", "Tiempo a mi favor", "Que paso mi amor", "Ajenos", "Cachitos", "Yang"],
+        "url" : null,
+        "stock" : 0
+    },
+    {
+        "id" : 4,
+        "albumName" : "Endless Forms Most Beautiful",
+        "artist" : "Nightwish",
+        "releaseYear" : 2015,
+        "songs" : ["Shudder before the beautiful", "Our decades in the sun", "Yours an empty hope", "Endless forms most beautiful", "Alpenglow", "The greatest show on earth"],
+        "url" : null,
+        "stock" : 3
+    },
+    {
+        "id" : 5,
+        "albumName" : "The Number of the Beast",
+        "artist" : "Iron Maiden",
+        "releaseYear" : 1982,
+        "songs" : ["Invaders", "Children of the Damned", "22 Acacia Avenue", "The Number of the Beast", "Run to the hills", "Hallowed by thy Name"],
+        "url" : "https://scontent.fmex22-1.fna.fbcdn.net/v/t1.6435-9/54434622_10156984965444544_7852657666995257344_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGhxRtZbrdYCSAwK8fy8Dhn-rxCGV4Tc4_6vEIZXhNzj1bwgIJXEEjkU_S9HMC4IzLMQK32V1zmHxylKcK1pvEJ&_nc_ohc=yO9OxBPlbd0AX8PRwjx&_nc_ht=scontent.fmex22-1.fna&oh=00_AfC9bvPd4MX2dhdSUL_OEQa15-ZB19HNC83r6XRkHHfU1A&oe=647D0C39",
+        "stock" : 20
+    },
+    {
+        "id" : 6,
+        "albumName" : "Ash & Ice",
+        "artist" : "The Kills",
+        "releaseYear" : 2016,
+        "songs" : ["Doing it to Death", "Heart of a Dog", "Hard Habit to Break", "Bitter Fruit", "Leit it Drop", "Siberian Nights", "Impossible Tracks"],
+        "url" : null,
+        "stock" : 0
+    },
+    {
+        "id" : 7,
+        "albumName" : "Shehili",
+        "artist" : "Myrath",
+        "releaseYear" : 2019,
+        "songs" : ["Born to Survive", "Dance", "Monster in my Closet", "Lili Twil", "No holding back", "You've Lost Yourself", "Shehili"],
+        "url" : "https://scontent.fmex5-1.fna.fbcdn.net/v/t39.30808-6/344861539_672807391320536_5718190237964468591_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGBJ0ek0MmHSCFVNkj37gtadLNSWxWUvsl0s1JbFZS-yV_5eezInIFc2j83VQd5Dy61iXUP5t7rABvhTQYb7fUs&_nc_ohc=loXsFk4hRSYAX-q5XYC&_nc_ht=scontent.fmex5-1.fna&oh=00_AfDtBC5Ep__1A56Bz4KYQ_7Oq6VNbAcw991KH9mPqgTriA&oe=645A83E4",
+        "stock" : 5
+    },
+    {
+        "id" : 8,
+        "albumName" : "Busca Una Mujer",
+        "artist" : "Luis Miguel",
+        "releaseYear" : 1988,
+        "songs" : ["Fria como el viento", "Esa Niña", "Culpable o No", "Un hombre busca a una mujer", "La incondicional", "Por favor señora", "Pupilas de gato", "El primero", "Soy un perdedor"],
+        "url" : "https://scontent.fmex28-1.fna.fbcdn.net/v/t1.18169-9/378012_508440415872387_310389358_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeGbV-dy8O1nisI8nBPrqco32qKqwjA3TLfaoqrCMDdMtyAra6vxkd_6k0c5nlPTk2HZayGNAkAS_5fGHvaBkDku&_nc_ohc=F_zn_47na8AAX8y5-lb&_nc_ht=scontent.fmex28-1.fna&oh=00_AfBAaO6oZS3THk9cdukttMRFv9cT2Aj_1ZHdcPx-EiSOhw&oe=647D2353",
+        "stock" : 40
+    },
+    {
+        "id" : 9,
+        "albumName" : "Continuum",
+        "artist" : "John Mayer",
+        "releaseYear" : 2006,
+        "songs" : ["Waiting On the World to Change", "I Don't Trust Myself", "Belief", "Gravity", "Vultures", "Slow Dacing in a Burning Room", "Bold as Love", "In Repair", "I'm Gonna Find Myself Another You"],
+        "url" : null,
+        "stock" : 12
+    },
+    {
+        "id" : 10,
+        "albumName" : "Vovin",
+        "artist" : "Therion",
+        "releaseYear" : 1998,
+        "songs" : ["The Rise of Sodom and Gomorrah", "Birth of Venus Illegitima", "Wine of Aluqah", "Clavicula Nox", "The wild Hunt", "Black Sun", "Morning Star", "Raven of Dispertion"],
+        "url" : "https://scontent.fmex31-1.fna.fbcdn.net/v/t39.30808-6/344828814_625967642803532_2158531244814039984_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE4USSPo3p6vj4eSE4LTfhqBgfkMxIosHcGB-QzEiiwdx78ctRK5OJwQBTE5RO15tDKWmSXO-cPIj5PB7tvslgi&_nc_ohc=oq2r5f2Ob_IAX9WUFpX&_nc_ht=scontent.fmex31-1.fna&oh=00_AfDiYTzzAFmyEW9lGGPFytz7kN5ZbZJTM1qJEn0WUfjH9g&oe=645B56B8",
+        "stock" : 8
+    },
+    {
+        "id" : 11,
+        "albumName" : "British Steel",
+        "artist" : "Judas Priest",
+        "releaseYear" : 1980,
+        "songs" : ["Metal Gods", "Breaking The Law", "Grinder", "Living After Midnight", "Steeler"],
+        "url" : "https://scontent.fmex23-1.fna.fbcdn.net/v/t31.18172-8/17917833_503359033121043_6011537775787869721_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeGeZp82xw6ytKQSfxLyeXPazlyldNo2kMvOXKV02jaQy-9-JRaga8xPupOMFohAnnqj1ZXWk8baSQ4Y8b6OS4Jx&_nc_ohc=PFF1a-isU8kAX_NozOj&_nc_ht=scontent.fmex23-1.fna&oh=00_AfCNMdPlyZ1ENIB7R6x256NT68x_vOTkbjwY9FCAEXTatQ&oe=647D0764",
+        "stock" : 4
+    },
+    {
+        "id" : 12,
+        "albumName" : "War Eternal",
+        "artist" : "Arch Enemy",
+        "releaseYear" : 2014,
+        "songs" : ["Never Forgive, Never Forget", "War Eternal", "No More Regrets", "You Will Know My Name", "Stolen Life", "Not Long For This World"],
+        "url" : null,
+        "stock" : 7
+    },
+    {
+        "id" : 13,
+        "albumName" : "The Great Mass",
+        "artist" : "Septicflesh",
+        "releaseYear" : 2011,
+        "songs" : ["The Vampire from Nazareth", "A Great Mass of Death", "Pyramid God", "Oceans of Grey", "Mad Architect", "Therianthropy"],
+        "url" : "https://scontent.fmex5-1.fna.fbcdn.net/v/t1.18169-9/17992353_10158422094905386_6099131537948439227_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeEHB7JZnzAbVc9owUDwIneQ4NWmNTD0fMHg1aY1MPR8wam8PGlw21meax6sSU8bgsHHZDY0LsUBbCygiGfVZh3l&_nc_ohc=b61TwSZme0QAX-YhHzh&_nc_ht=scontent.fmex5-1.fna&oh=00_AfAvFNuNXbegyFV1v2hdF4avCJjPECdB9kTngbhr1jTvwg&oe=647D31D8",
+        "stock" : 10
+    },
+    {
+        "id" : 15,
+        "albumName" : "Lover",
+        "artist" : "Taylor Swift",
+        "releaseYear" : 2019,
+        "songs" : ["I Forgot That You Existed", "Cruel Summer", "Lover", "The Man", "The Archer", "I Think He Knows", "Paper Ring", "London Boy", "You Need To Calm Down", "Daylight"],
+        "url" : "https://scontent.fmex36-1.fna.fbcdn.net/v/t1.6435-9/71085960_10156491526226517_583743195771305984_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeEF1N3Fr1BXgG2PTm1Rx68nRo6FMI9PPkZGjoUwj08-RoDfTsawEjhEgwmprgSDBBsBJKpoAjnuyEedMansMfsO&_nc_ohc=HGQV-UiDBxUAX9FGdRk&_nc_ht=scontent.fmex36-1.fna&oh=00_AfDvL5upOShEoHluy9hXnrmIR_ud88-OXRHSunIiYrWuRg&oe=647D35BA",
+        "stock" : 9
+    }
+]
