@@ -68,6 +68,12 @@ body::-webkit-scrollbar-thumb {
   font-weight: bold;
 }
 
+.title {
+  font-size: 1.3rem;
+  text-align: center;
+  font-weight: bold;
+}
+
 .list-songs {
   list-style: none;
 }

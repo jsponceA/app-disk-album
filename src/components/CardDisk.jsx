@@ -9,6 +9,7 @@ const CardDisk = ({ data, handleClickBuy }) => {
       <img className="img-top" src={data.url || Music} alt="img_album" />
 
       <p className="title">{data.albumName}</p>
+      <p className="sub-title">{data.artist}</p>
 
       <ol className="list-songs">
         {data.songs.map((val, index) => (
